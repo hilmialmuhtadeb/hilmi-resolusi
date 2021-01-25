@@ -1,5 +1,12 @@
 rencana belajar bahasa pemrograman :
 1. php
+(membuat mvc, dan belajar framework)
+
 2. javascript
+(modern javascript)
+
 3. python
+(belajar penerapan python untuk web development dan desk/mobile app)
+
 4. java
+(belajar java untuk berbagai implementasi)
