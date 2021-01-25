@@ -1,11 +1,11 @@
 rencana belajar bahasa pemrograman :
 1. php
 (membuat mvc, dan belajar framework)
-belajar codeigniter
+belajar laravel dan codeigniter
 
 2. javascript
 (modern javascript)
-belajar angular dan react
+belajar vue dan react
 
 3. python
 (belajar penerapan python untuk web development dan desk/mobile app)
