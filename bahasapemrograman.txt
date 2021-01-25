@@ -10,3 +10,6 @@ rencana belajar bahasa pemrograman :
 
 4. java
 (belajar java untuk berbagai implementasi)
+
+5. SASS
+(CSS preprocessor agar lebih fleksibel dalam menggunakan CSS)
