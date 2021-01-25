@@ -5,7 +5,7 @@ belajar laravel dan codeigniter
 
 2. javascript
 (modern javascript)
-belajar vue
+belajar vue dan react
 
 3. python
 (belajar penerapan python untuk web development dan desk/mobile app)
