@@ -1,0 +1,4 @@
+Hilmi Resolusi
+- Konsisten belajar materi web development (PHP, JavaScript, CSS, NodeJS, SASS, dll)
+- membuat website penerapan dari apa yang dipelajari
+- sedikit belajar tentang desktop/mobile app
